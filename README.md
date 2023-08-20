@@ -1,1 +1,1 @@
-# Lung Segmentation in Chest X-Ray Dataset and using U-Net
+# Lung Segmentation in Chest X-Ray Dataset using U-Net
